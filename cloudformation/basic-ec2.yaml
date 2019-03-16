@@ -1,0 +1,16 @@
+---
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Deploy a simple Amazon Linux Instance and allow SSH connectivity.
+
+Resources:
+  SimpleInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+
+      InstanceType: t2.micro
+      ImageId: ami-8c1be5f6
+      NetworkInterfaces:
+   
+        AssociatePublicIpAddress: 'true'
+        DeviceIndex: '0'
+        DeleteOnTermination: 'true'
