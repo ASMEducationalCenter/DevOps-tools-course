@@ -10,7 +10,9 @@ Parameters:
     Description: type something
       running this.
     Type: String
-    
+  YourName: # this can be anything   
+    Description: type your name
+    Type: String
     
   VpcId:
     Description: 'Please insert one of your VPC ID. you can find this info in the
