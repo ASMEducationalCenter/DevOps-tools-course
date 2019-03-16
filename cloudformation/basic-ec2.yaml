@@ -9,8 +9,4 @@ Resources:
 
       InstanceType: t2.micro
       ImageId: ami-8c1be5f6
-      NetworkInterfaces:
    
-        AssociatePublicIpAddress: 'true'
-        DeviceIndex: '0'
-        DeleteOnTermination: 'true'
