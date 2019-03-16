@@ -32,7 +32,7 @@ Resources:
         AssociatePublicIpAddress: 'true'
         DeviceIndex: '0'
         DeleteOnTermination: 'true'
-       Tags: 
+      Tags: 
        - 
           Key: "Name"
           Value: "devops-course"
