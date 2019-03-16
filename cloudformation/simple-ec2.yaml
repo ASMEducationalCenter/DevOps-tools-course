@@ -32,6 +32,11 @@ Resources:
         AssociatePublicIpAddress: 'true'
         DeviceIndex: '0'
         DeleteOnTermination: 'true'
+       Tags: 
+       - 
+          Key: "Name"
+          Value: "devops-course"
+
   SimpleInstanceSg:
     Type: AWS::EC2::SecurityGroup
     Properties:
