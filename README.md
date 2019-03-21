@@ -67,7 +67,11 @@ Intro to DevOps on AWS with various tools and services
 - Intro to Ansible 
   - https://www.ansible.com/
   - https://www.amazon.com/gp/product/098639341X/ref=dbs_a_def_rwt_bibl_vppi_i0
+
   - https://github.com/geerlingguy/ansible-for-devops
+  
+  - Setup Ansible 
+    -  https://github.com/ravsau/ansible-practice
   
 
      
@@ -78,6 +82,12 @@ Intro to DevOps on AWS with various tools and services
 
 
 -  CI/CD with Jenkins 
+  - Install jenkins
+  - Retrieve password and do initial Jenkins setup
+  - Install Jenkins plugin
+    - http://localhost:8080/pluginManager/available
+    
+  
   - create a simple project 
      - poll from SCM ( github)
      - Build 
