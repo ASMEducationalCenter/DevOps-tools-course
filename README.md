@@ -120,6 +120,10 @@ Intro to DevOps on AWS with various tools and services
 https://github.com/rbngtm1/solution_architect_associate
 
 
+## SAAS vs IAAS vs PAAS
+https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+
+
 
 
 
