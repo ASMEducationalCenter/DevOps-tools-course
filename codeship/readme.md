@@ -4,7 +4,9 @@
 - generate AWS keys for Codeship
   - AmazonS3FullAccess
   - AWSElasticBeanstalkFullAccess
-- Create Elastic beanstalk  application and environment
+- Create Elastic beanstalk  application and environment,  configure the VPC settings. 
+
+
 
 
 
