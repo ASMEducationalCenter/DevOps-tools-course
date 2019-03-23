@@ -113,6 +113,9 @@ Intro to DevOps on AWS with various tools and services
  ### AWS Meetup
    - https://www.meetup.com/Bethesda-Cloud-Computing-Meetup/
    
+ ## Devops Certification Page with sample questions
+ https://aws.amazon.com/certification/certified-devops-engineer-professional/
+   
  ## Youtube Playlist
    https://www.youtube.com/playlist?list=PLQP5dDPLts65Cn813783FxPO16cB1RpC-
 
