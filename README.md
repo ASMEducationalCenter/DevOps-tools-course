@@ -117,6 +117,8 @@ Intro to DevOps on AWS with various tools and services
    https://www.youtube.com/playlist?list=PLQP5dDPLts65Cn813783FxPO16cB1RpC-
 
 ## References
+https://github.com/rbngtm1/solution_architect_associate
+
 
 
 
