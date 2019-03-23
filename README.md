@@ -112,6 +112,9 @@ Intro to DevOps on AWS with various tools and services
 ## Links
  ### AWS Meetup
    - https://www.meetup.com/Bethesda-Cloud-Computing-Meetup/
+   
+ ## Youtube Playlist
+   https://www.youtube.com/playlist?list=PLQP5dDPLts65Cn813783FxPO16cB1RpC-
 
 ## References
 
