@@ -13,7 +13,7 @@ https://github.com/ravsau/ansible-practice
 - Install Ansible on the Master
 - Configure the Ansible Master
   - add ansible user
-  - Add sudo passwordless access 
+  - Add sudo password ssh access
   - add inventory file 
   - disable ssh key check
   - install sshpass 
