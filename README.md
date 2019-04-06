@@ -115,8 +115,10 @@ Intro to DevOps on AWS with various tools and services
  - AWS Cloudwatch Metrics , Alarms , SNS
    - Create Alarms based on thresholds
    - Send Notification using SNS
-   -
- - Custom Cloudwatch Metrics 
+   - Cloudwatch Unified Agent
+      - Custom Cloudwatch Metrics using
+      - Cloudwatch logs
+      - [labs](https://github.com/Cloud-Yeti/aws-ec2-course/tree/master/labs)
  - Cloudwatch Monitoring Dashboards
    - Create a dashboard to monitor our ASG
 
