@@ -111,6 +111,7 @@ Intro to DevOps on AWS with various tools and services
  
  ## Week 5
  - Autoscaling Group launch with Cloudformation template 
+ - Load Test http://servermonitoringhq.com/blog/how_to_quickly_stress_test_a_web_server
  - AWS Cloudwatch Metrics , Alarms , SNS
    - Create Alarms based on thresholds
    - Send Notification using SNS
