@@ -107,6 +107,20 @@ Intro to DevOps on AWS with various tools and services
   - Push to Dockerhub
   
  - Refresh all the concepts covered
+ 
+ 
+ ## Day 5
+ - AWS Cloudwatch Metrics , Alarms
+ - Custom Cloudwatch Metrics 
+ - Cloudwatch Monitoring Dashboards
+ - CICD Whitepaper Review 
+ - DevOps pro sample exam questions
+ 
+ 
+ ## Day 6 
+ - AWS Native CICD Services Overview ( Codepipeline, Codedeploy, Codecommit , Codebuild) 
+ - Review of everything we did so far
+ 
 
      
 ## Links
