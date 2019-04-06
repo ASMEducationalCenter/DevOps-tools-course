@@ -18,7 +18,7 @@ Intro to DevOps on AWS with various tools and services
 
 
 
-# Day 1 
+# Week 1 
 - Intro to DevOps 
   - #### Waterfall, Agile, DevOps
      - https://www.guru99.com/waterfall-vs-agile.html
@@ -45,7 +45,7 @@ Intro to DevOps on AWS with various tools and services
  
 
 
-# Day 2 Tentative
+# Week 2 Tentative
 
 
 - Cloudformation
@@ -77,7 +77,7 @@ Intro to DevOps on AWS with various tools and services
      
 
 
-# Day 3 Tentative
+# Week 3 Tentative
 
 
 
@@ -109,15 +109,22 @@ Intro to DevOps on AWS with various tools and services
  - Refresh all the concepts covered
  
  
- ## Day 5
- - AWS Cloudwatch Metrics , Alarms
+ ## Week 5
+ - Autoscaling Group launch with Cloudformation template 
+ - AWS Cloudwatch Metrics , Alarms , SNS
+   - Create Alarms based on thresholds
+   - Send Notification using SNS
+   -
  - Custom Cloudwatch Metrics 
  - Cloudwatch Monitoring Dashboards
- - CICD Whitepaper Review 
+   - Create a dashboard to monitor our ASG
+
+- CICD Whitepaper Review ( HW to finish reading by next week ) 
+  - https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
  - DevOps pro sample exam questions
  
  
- ## Day 6 
+ ## Week 6 
  - AWS Native CICD Services Overview ( Codepipeline, Codedeploy, Codecommit , Codebuild) 
  - Review of everything we did so far
  
