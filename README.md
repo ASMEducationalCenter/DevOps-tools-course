@@ -128,8 +128,13 @@ Intro to DevOps on AWS with various tools and services
  
  
  ## Week 6 
- - AWS Native CICD Services Overview ( Codepipeline, Codedeploy, Codecommit , Codebuild) 
+ - AWS Native CICD Services Overview ( Codepipeline, Codedeploy, Codecommit , Codebuild)
+ - Quick Review of CICD Whitepaper
+ - Deploy a quick app with Codestar https://aws.amazon.com/codestar/
  - Review of everything we did so far
+ - DevOps Exam Sample Questions
+ - Write a Cloudformation Template from scratch
+ 
  
 
      
